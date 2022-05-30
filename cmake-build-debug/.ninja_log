@@ -1,0 +1,18 @@
+# ninja log v5
+5	1533	1652030706000000000	CMakeFiles/Rummikub_Project.dir/Sources/Sets.cpp.o	4f2fb0db5f01d0fa
+79	3447	1652030657000000000	CMakeFiles/Rummikub_Project.dir/Sources/Board.cpp.o	33c3dc1ef2c5fd88
+3	970	1652021749000000000	CMakeFiles/Rummikub_Project.dir/Sources/Bag.cpp.o	c2b555e8a8cd295f
+22	2807	1652024805000000000	CMakeFiles/Rummikub_Project.dir/Sources/Rack.cpp.o	18819411aefa3a30
+37	3445	1652030657000000000	CMakeFiles/Rummikub_Project.dir/main.cpp.o	d7d7eb1c9e92f943
+1	7443	1652021559000000000	CMakeFiles/Rummikub_Project.dir/Sources/Tiles.cpp.o	4f85a9141ffab301
+22	2723	1652024805000000000	CMakeFiles/Rummikub_Project.dir/Sources/Racks.cpp.o	f1c07f922f3e9850
+58	6160	1652008626000000000	CMakeFiles/Rummikub_Project.dir/Sources/Colors.cpp.o	b262d7e3c2a2a3cb
+1533	1582	1652030706000000000	Rummikub_Project	333aead2baa0c623
+3	1907	1652030832000000000	CMakeFiles/Rummikub_Project.dir/Sources/Sets.cpp.o	4f2fb0db5f01d0fa
+1907	1983	1652030832000000000	Rummikub_Project	333aead2baa0c623
+2	1339	1652030869000000000	CMakeFiles/Rummikub_Project.dir/Sources/Sets.cpp.o	4f2fb0db5f01d0fa
+1339	1474	1652030869000000000	Rummikub_Project	333aead2baa0c623
+3	2923	1652030915000000000	CMakeFiles/Rummikub_Project.dir/main.cpp.o	d7d7eb1c9e92f943
+4	2924	1652030915000000000	CMakeFiles/Rummikub_Project.dir/Sources/Sets.cpp.o	4f2fb0db5f01d0fa
+6	2947	1652030915000000000	CMakeFiles/Rummikub_Project.dir/Sources/Board.cpp.o	33c3dc1ef2c5fd88
+2947	4046	1652030916000000000	Rummikub_Project	333aead2baa0c623
